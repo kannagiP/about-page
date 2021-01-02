@@ -1,0 +1,82 @@
+#about file
+<html>
+    <head>
+        <title>About</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Work+Sans&display=swap" rel="stylesheet">
+        <style>
+            body{
+                background-image: url(image\ 2.jpg);
+            }
+            .container{
+                height:300px;
+                width:90%;
+                background: rgb(1, 36, 75);
+                margin-left: 70px;
+                position: relative;
+
+            }
+            
+                
+            
+            .box1 {
+                position: absolute;
+                height: 36%;
+                width:61%;
+                background:darkcyan;
+                top:20px;
+                left:20px;
+               
+            }
+            .box2{
+                position: absolute;
+                height:36%;
+                width:35%;
+                background: darkcyan;
+                right:20px;
+                top:20px;
+            }
+            .box3{
+                position:absolute;
+                height:46%;
+                width:28%;
+                background: darkcyan;
+                left:20px;
+                bottom: 20px;
+               
+            }
+            .box4{
+                position: absolute;
+                height: 46%;
+                width:68%;
+                background: darkcyan;
+                right:20px;
+                bottom:20px;
+            }
+            .letter{
+                color: white;
+                font-size: 25px;
+                position:absolute;
+                left:10px;
+                
+            }
+
+           
+        </style>
+    </head>
+    <body>
+        <div style="margin:75px 600px">
+        <h1 style="color: blanchedalmond;">&#8212; ABOUT US &#8212;</h1></div>
+        <div class="container">
+            <div class="box1">
+               <h3 class="letter"  >We <b>404ITECH</b> has commenced its beginning to reach 
+                    the people all the way through online platform</h3></div>
+           <div class="box2"   >
+               <h3 class="letter">The main goal is to give best place to fulfill your expectation at affordable price.</h3></div>
+           <div class="box3" >
+               <h3 class="letter">This is a team of young minds who are excited to develop a rapport with our clients.</h3></div>
+           <div class="box4">
+               <h3 class="letter">We beleive buisness can grow with a conscience, and succeed with a soul and that they cam do it with inbound.Our agenda is to help people through our work in an efficient manner</h3></div>
+        </div>
+    </body>
+</html>
